@@ -1,1 +1,2 @@
 Its an test to check the build.
+Its a second test to deploy with without manual trigger.
